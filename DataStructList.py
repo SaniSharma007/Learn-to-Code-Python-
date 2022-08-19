@@ -1,4 +1,4 @@
-# Lecture 7 Data Structure List
+# Lecture 9 Data Structure List
 # Syntax: separated by commmas and enclosed in []
 Lst=['Sanidhihya',21]
 print(Lst)
