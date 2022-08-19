@@ -1,3 +1,4 @@
+# Lecture 10 Data Structure Tuple
 # tuple(): elements separated by commas, and enclosed in brackets
 # they are non-mutable
 tu=(1,2,3)
