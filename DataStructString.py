@@ -1,4 +1,4 @@
-# Lecture 6 Data Structure
+# Lecture 7 Data Structure
 # String: Content in double or single quotes
 str1='Single Quote is also string'
 str2="Double Quote is a string too"
@@ -14,7 +14,7 @@ multiline string""")
 # Basically When the spl characters are many
 path = r"C:\PythonPro\DataStr"
 print(path)
-# String Formatting
+# Lecture 8: String Formatting
 langname="Hindi"
 print("{} is my mother tongue".format(langname))
 frmtstr="{},{},{} are the positons".format("1","2","3")
